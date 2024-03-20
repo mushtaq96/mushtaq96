@@ -1,11 +1,10 @@
 ![Banner](https://user-images.githubusercontent.com/13836064/194752518-6d5b3f8a-550d-472b-be67-22c7a5ddcef0.jpg)
 - 👋 My official name is, SM Mushtaq Bokhari
 - 👀 I’m curious about building things and experimenting with technical stuffs. 
-      My primary interests are in the field of Web development, Cloud Computing and Blockchain.
-      I am comfortable in Python, Javascript and C#
-- 🌱 I’m currently learning Full-Stack technologies like React, NodeJs, etc.
+- 🌱 Currently I'm expanding my skill set to include advanced topics in AI and machine learning. While my past experiences have centered around full-stack technologies like React and Node.js, I'm now diving deeper into the fascinating realms of AI/ML. 
+- 💡 Although my journey started with web development and backend, I'm now eager to collaborate on open-source projects related to AI/ML and Web3.
 - 💞️ I’m looking to collaborate on web3 domain related open source projects involving Web development and Smart contract creations.
- - 📫 Find me around the web! Feel free to ask me anything esp in Web3. If I didn't know, Il learn something new!
+ - 📫 Find me around the web! Feel free to ask me anything esp in AI/ML/Web3. If I didn't know, Il learn something new!
       - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mushtaq96/)
       - [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/mushtaq96)
       - [![Twitter](https://user-images.githubusercontent.com/13836064/194752774-29040a31-8cd0-40b8-a4d4-81ce01c19941.png) Twitter](https://twitter.com/iambaaziger)
